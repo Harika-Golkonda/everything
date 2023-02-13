@@ -1,3 +1,5 @@
 name : realme
 version : 6.0
 ram : 64 gb
+
+version : 12.0
